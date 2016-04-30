@@ -11,7 +11,6 @@ Electronic health information exchange (HIE) allows doctors, nurses, pharmacists
 <li>Every state can have their own HIE and can have all hospitals participate in the HIE program to share patient’s records.</li>
 <li>HIEs are single source of collating all patient records from disparate sources and act as an mediator between various hospitals.</li>
 </ul>
-<br>
 <b>Advantages of HIE</b>
 <ul>
 <li>Improves public health reporting and monitoring</li>
@@ -20,7 +19,6 @@ Electronic health information exchange (HIE) allows doctors, nurses, pharmacists
 <li>Stimulates consumer education and patients' involvement in their own health care</li>
 <li>Increases efficiency by eliminating unnecessary paperwork</li>
 </ul>
-<br>
 <b>Proposed Solution</b>
 <ul>
 <li>The proposed solution creates a state level HIE. The state level HIE will be governed as per the state’s Department of Health.</li>
