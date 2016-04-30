@@ -12,12 +12,20 @@ Electronic health information exchange (HIE) allows doctors, nurses, pharmacists
 <li>HIEs are single source of collating all patient records from disparate sources and act as an mediator between various hospitals.</li>
 </ul>
 <br>
-<b>Advantages of HIE</b><br>
+<b>Advantages of HIE</b>
 <ul>
 <li>Improves public health reporting and monitoring</li>
 <li>Provides the backbone of technical infrastructure for leverage by national and State-level initiatives</li>
 <li>Provides a basic level of interoperability among various sources of patient data maintained by individual physicians and organizations</li>
 <li>Stimulates consumer education and patients' involvement in their own health care</li>
 <li>Increases efficiency by eliminating unnecessary paperwork</li>
-
+</ul>
+<br>
+<b>Proposed Solution</b>
+<ul>
+<li>The proposed solution creates a state level HIE. The state level HIE will be governed as per the state’s Department of Health.</li <li>Another dependency can be from Department of Health’ directions from the Union Government of India.</li
+<li>The HIE body comprises of Admins who can contact all participating hospital’s Admin/Physician Directors.</li
+<li>HIE has a portal where HIE Admin can login to start new participation from hospitals in the state and other hospital Admins can login to request/send patient information.</li
+<li>Each transaction will be done digitally and in a secured environment to maintain the security and privacy of patient records.</li
+<ul>
 </ul>
