@@ -7,8 +7,7 @@
 </ul>
 <b>What is HIE</b><br>
 Electronic health information exchange (HIE) allows doctors, nurses, pharmacists, other health care providers and patients to appropriately access and securely share a patient’s vital medical information electronically—improving the speed, quality, safety and cost of patient care.
-<ul><br>
+<ul> 
 <li>Every state can have their own HIE and can have all hospitals participate in the HIE program to share patient’s records.</li>
-<br>
 <li>HIEs are single source of collating all patient records from disparate sources and act as an mediator between various hospitals.</li>
 </ul>
